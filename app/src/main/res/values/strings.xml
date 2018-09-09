@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudyCards</string>
+    <string name="title_activity_create_card">CreateCard</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="create_deck">Create Deck</string>
+    <string name="create_card">Create Card</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="name">Name</string>
+    <string name="description">Description (Optional)</string>
+    <string name="done">Done</string>
+    <string name="card_front">Card Front</string>
+    <string name="card_back">Card Back</string>
+    <string name="card_deck_icon_description">Card Deck Icon</string>
+</resources>
